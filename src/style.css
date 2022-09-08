@@ -1,0 +1,68 @@
+body {
+    background-image: url('https://imageio.forbes.com/specials-images/imageserve/621323f02a3aa7fa41a869a8/The-Top-10-Tech-Trends-In-2022-Everyone-Must-Be-Ready-For-Now/960x0.jpg?format=jpg&width=960');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    position: absolute;
+    left: 20px;
+    font-size: 70px;
+    top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ui.menu {
+    position: absolute;
+    top: 10px;
+    left: 650px;
+    color: navajowhite;
+}
+
+.ui.container {
+    width: 3000px;
+    height: 100px;
+    color: white;
+}
+
+
+.ui.center.aligned.container {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+.ui.text.container {
+    margin-bottom: 100px;
+    width: 800px;
+    height: 500px;
+}
+
+.slogan {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 50px;
+}
+
+.services {
+    color: whitesmoke;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+
+h1 {
+    position: aboslute;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.ui.footer {
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+    color: white;
+    font-size: 30px;
+}
